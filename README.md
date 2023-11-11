@@ -17,3 +17,6 @@ Decompostion Tree:
 
 Slicer, Scatter Plot, Waterfall Graph, Tree Map:
 ![PR15_Slicer_ScatterPlot_Waterfall_TreeMap](https://github.com/Sanketgadekar31/Data-Analytics-With-PowerBI/assets/106864499/cb98a5f9-d9b5-4f70-b49a-d9e0fd9611d3)
+
+# Visualizing financial data
+![Visualizing financial data](https://github.com/Sanketgadekar31/Data-Analytics-With-PowerBI/assets/106864499/597a0b3e-dca6-4db5-8e0e-82be8103a822)
